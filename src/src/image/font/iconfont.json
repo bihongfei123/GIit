@@ -1,0 +1,16 @@
+{
+  "id": "2727293",
+  "name": "route",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "608351",
+      "name": "箭头",
+      "font_class": "jiantouarrow486",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    }
+  ]
+}
